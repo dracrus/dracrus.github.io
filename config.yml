@@ -7,6 +7,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+enableEmoji: true
 
 minify:
   disableXML: true
@@ -41,21 +42,21 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "favicon.png"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Riccardo Lo Faro"
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Hi. I'm Riccardo Lo Faro.
-    subtitle: Not Your Average Software Engineer.
+    title: Hey, I'm Riccardo
+    subtitle: Not Your Average Software Engineer
     imageUrl: "img-profile-cropped.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -94,7 +95,11 @@ params:
     keys: [ "title", "permalink", "summary", "content" ]
 menu:
   main:
+    - identifier: home
+      name: Home
+      url:
+      weight: 1
     - identifier: about
       name: About
       url: /about
-      weight: 10
+      weight: 2
