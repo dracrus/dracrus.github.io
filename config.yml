@@ -8,6 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
+googleAnalytics: G-K57GEFSV09
 
 minify:
   disableXML: true
@@ -58,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Hey, I'm Riccardo
+    title: Hello there! I'm Riccardo
     subtitle: Not Your Average Software Engineer
     imageUrl: "img-profile-cropped.jpg"
     imageWidth: 120
@@ -103,6 +104,6 @@ menu:
       url:
       weight: 1
     - identifier: about
-      name: About
+      name: About me
       url: /about
       weight: 2
