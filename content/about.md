@@ -12,6 +12,8 @@ Throughout my career, I've explored a wide range of technologies and platforms, 
 
 **DevOps:** Beyond coding, I have ventured into DevOps, utilizing Docker and leveraging AWS, Google Cloud, and Serverless technologies to ensure smooth deployment and efficient management of applications.
 
+**Data:** In my roles, I've worked extensively with Data. I designed and implemented data visualization dashboards using Metabase and Grafana, enabling stakeholders to make informed decisions.
+
 I see myself as a continuous explorer of the tech landscape. There is always something new to uncover, an innovative approach to experiment with, or a problem to solve, which keeps me engaged, curious, and never bored.
 
 Outside of work, you can find me kitesurfing, capturing photos, and enjoying the company of all the friendly dogs (or cats, to be honest).
